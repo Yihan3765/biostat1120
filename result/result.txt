@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  ataxia$lifespan by ataxia$treatment
+t = 3.1531, df = 7.4065, p-value = 0.01494
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 11.02150 74.31183
+sample estimates:
+   mean in group Exercise mean in group NoExcercise 
+                 310.0000                  267.3333 
+
